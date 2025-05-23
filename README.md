@@ -6,6 +6,7 @@ Welcome to LSTM Movie Review Sentiment Analysis! This project uses Deep Learning
 📖 It learns from thousands of reviews and becomes smart enough to tell if a review is happy or sad.
 
 🧰 Tech Stack
+
 🐍 Python
 
 🤖 TensorFlow & Keras
@@ -15,7 +16,9 @@ Welcome to LSTM Movie Review Sentiment Analysis! This project uses Deep Learning
 📊 Pandas & NumPy
 
 📚 IMDB Dataset (50,000 reviews!)
+
 🔧 How It Works
+
 📂 Load the IMDB dataset
 
 🧽 Clean the text (remove HTML, stopwords, etc.)
