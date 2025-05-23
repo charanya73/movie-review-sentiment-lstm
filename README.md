@@ -5,7 +5,7 @@ Welcome to LSTM Movie Review Sentiment Analysis! This project uses Deep Learning
 🧠 We trained an LSTM (Long Short-Term Memory) model using the IMDB movie reviews dataset.
 📖 It learns from thousands of reviews and becomes smart enough to tell if a review is happy or sad.
 
-🧰 Tech Stack
+🧰 Tech Stack :
 
 🐍 Python
 
@@ -17,7 +17,7 @@ Welcome to LSTM Movie Review Sentiment Analysis! This project uses Deep Learning
 
 📚 IMDB Dataset (50,000 reviews!)
 
-🔧 How It Works
+🔧 How It Works :
 
 📂 Load the IMDB dataset
 
